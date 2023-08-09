@@ -1,8 +1,5 @@
 # Julyse Cortelleti
 
-## How can you call me?
-My Nickname is **Ju** and my name should be pronounced like this: **Julíze**.
-
 ## About this document
 The objective is to be a personal presentation, by my point of view and feedbacks received during my life.
 I live in search of constant evolution, so this document may be updated with changes in my views, career and personal life.
@@ -11,6 +8,9 @@ I live in search of constant evolution, so this document may be updated with cha
 
 ## Reason to create this document
 Help my colleagues to know a little more about me, showing my history, values and points of view.
+
+## How can you call me?
+My Nickname is **Ju** and my name should be pronounced like this: **Julíze**.
 
 ## Who am I?
 - I was born in São Gonçalo, Rio de Janeiro;
@@ -28,20 +28,14 @@ Help my colleagues to know a little more about me, showing my history, values an
 - I've been working with systems development since 2015, working mainly with .NET stacks (Framework and Core), Java, Angular and TypeScript;
 - Now I'm learning new languages used by the Dev FinOps Local team: PHP, Golang and Elixir.
 
-## My mission
-TBD ...
+## My Availability
+- I don't usually answer emails quickly, I reserve a few moments of the day to do that;
+- If you need to talk to me quickly, come to my desk, send me a slack message or give me a call;
+- I always try to be available to assist you as quickly as possible, but if that doesn't happen, it's because I'm focused on some activity;
+- Please feel free to mark events on my calendar. If I can't on the scheduled day, I'll contact you to suggest another one.
 
 ## My beliefs, principles and values
 TBD ...
 
 ## My role as an Software Engineering Team Leader
 TBD ...
-
-## My Interests
-TBD ...
-
-## My Availability
-- I don't usually answer emails quickly, I reserve a few moments of the day to do that;
-- If you need to talk to me quickly, come to my desk, send me a slack message or give me a call;
-- I always try to be available to assist you as quickly as possible, but if that doesn't happen, it's because I'm focused on some activity;
-- Please feel free to mark events on my calendar. If I can't on the scheduled day, I'll contact you to suggest another one.
