@@ -1,5 +1,9 @@
 # Julyse Cortelleti
 
+## How can you call me?
+- My nickname: Ju;
+- Pronunciation of my name: Julíze.
+
 ## About this document
 The objective is to be a personal presentation, by my point of view and feedbacks received during my life.
 
