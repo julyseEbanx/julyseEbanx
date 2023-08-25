@@ -21,7 +21,7 @@ My Nickname is **Ju** and my name should be pronounced like this: **Julíze**.
 - I'm a fan of the following soccer clubs: Vasco da Gama and Coritiba (yes, I suffer 😅);
 - I like watching sports in general: soccer, American football, basketball, volleyball and MMA;
 - I practiced the following martial arts: judo, jiu-jitsu and shotokan karate;
-- I had bariatric surgery in November 2021, so taking care of my health and nutrition is very important to me.
+- I had bariatric surgery in November 2022, so taking care of my health and nutrition is very important to me.
 
 ## My education and career
 - I have a degree in Analysis and Systems Development;
